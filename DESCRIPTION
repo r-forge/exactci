@@ -1,0 +1,13 @@
+Package: ExactCI
+Version: 1.1
+License: GPL version 2 or newer
+Description: This is a package for exact Confidence Intervals for the difference between two independent or dependent proportions.
+Title: Inductive Confidence Intervals for the difference between two proportions
+Author: Guogen Shan <guogen.shan@gmail.com>, Weizhen Wang <weizhen.wang@wright.edu>
+Maintainer: Guogen Shan <guogen.shan@gmail.com>
+Date: 2012-05-12
+Depends: R (>= 1.6.0)
+LazyData: yes
+LazyLoad: yes 
+Suggests:
+URL: http://www.r-project.org, http://my.web.page.address
